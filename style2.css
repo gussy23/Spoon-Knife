@@ -1,0 +1,18 @@
+p {color:Black; background-color: pink; font-size: 18px; font-family:verdana}
+
+div {font-weight: bold; font-size: 25px;}
+
+.three {font-size: 20px; background-color: salmon; }
+
+#four {font-size: 20px; font-weight: bold; background-color: greenyellow;}
+
+.five {font-size:20px; background-color:pink ;}
+
+#one {background-color: lightblue;}
+
+.inverted {background-color:black; color:white; font-size: large; font-weight: bold; 
+    padding: 10px;}
+
+.regular {background-color: gold;color:black; font-size:large; font-weight: bold;
+    padding:10px}
+
